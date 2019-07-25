@@ -1,1 +1,5 @@
 # 2048Game
+
+This project is a personal project inspired off of the original 2048 game. I plan on using Java to create the backend while using JavaFX to create the UX design of the project, which will display the game when ran in a terminal. 
+
+Project Start Date: 7/25/19
